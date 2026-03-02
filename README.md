@@ -1,2 +1,1 @@
-# PruebaGrupalProg
-Repo prueba Programacion
+# Repo de Tests para Juego iLERNTALE
